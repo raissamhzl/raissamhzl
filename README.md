@@ -16,6 +16,8 @@
 
     
 </div>
+  <h4 align="center"> Hard Skills </h4>
+  <p align="center"> Praticando e me desenvolvendo em:</p>
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Raissa-Js" height="50" width="60" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=141321">
   <img align="center" alt="Raissa-HTML" height="50" width="60" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=148&color=141321">
@@ -28,7 +30,7 @@
 </div>
   
   ##
-  <h3 align="center"> Fala comigo </h1>
+  <h3 align="center"> Fala comigo </h3>
   <div align="center"> 
  <a href="https://www.linkedin.com/in/raissamunhoz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:raissamunhoz4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
