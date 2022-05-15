@@ -1,4 +1,4 @@
-<h2 align="center"> Oi! Eu sou a Raíssa :) </h1>
+<h2 align="center"> Oi! Eu sou a Raíssa 😊 </h1>
 
 <p align="center">
 👩🏽‍💻 Curso Análise e desenvolvimento de Sistemas, 1/5.<br>
@@ -30,7 +30,7 @@
 </div>
   
   ##
-  <h3 align="center"> Fala comigo </h3>
+  <h3 align="center"> Fale comigo 😃 </h3>
   <div align="center"> 
  <a href="https://www.linkedin.com/in/raissamunhoz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:raissamunhoz4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
