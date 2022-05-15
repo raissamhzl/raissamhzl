@@ -2,7 +2,7 @@
 
 <div align="center">
 👩🏽‍💻 Curso Análise e desenvolvimento de Sistemas, 1/5.<br>
-💻 Com foco no desenvolvimento de estudo em Front-End.<br>
+💻 Com foco no desenvolvimento de estudo e prática em Front-End.<br>
 📍 São José dos Pinhais, PR. </div>
 
 ##
