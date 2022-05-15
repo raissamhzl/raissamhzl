@@ -1,9 +1,9 @@
 <h2 align="center"> Oi! Eu sou a Raíssa :) </h1>
 
-<div align="center">
+<p align="center">
 👩🏽‍💻 Curso Análise e desenvolvimento de Sistemas, 1/5.<br>
 💻 Com foco no desenvolvimento de estudo e prática em Front-End.<br>
-📍 São José dos Pinhais, PR. </div>
+📍 São José dos Pinhais, PR. </p>
 
 ##
   
