@@ -1,7 +1,7 @@
 <h2 align="center"> Hello! I'm Raíssa 😊 </h1>
 
 <p align="center">
-👩🏽‍💻 Now, I am studying Systems Analysis and Development (2/5) something that I really love and intend to work soon.<br>
+👩🏽‍💻 I'm studying Systems Analysis and Development (2/5) something that I really love and intend to work soon.<br>
 💻 Focusing on the development of study and practice in Front-End.<br>
 📍 São José dos Pinhais, PR - Brazil. </p>
 
