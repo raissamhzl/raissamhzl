@@ -2,7 +2,7 @@
 
 <p align="center">
 👩🏽‍💻 I'm studying Systems Analysis and Development (2/5).<br>
-💻 Focusing on the development of study and practice in Front-End.<br>
+💻 Focusing on the study and practice in Front-End.<br>
 📍 São José dos Pinhais, PR - Brazil. </p>
 
 ##
