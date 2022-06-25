@@ -22,7 +22,8 @@
   <img align="center" alt="Raissa-HTML" height="50" width="60" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=148&color=141321">
   <img align="center" alt="Raissa-CSS" height="50" width="60" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=148&color=141321">
   <img align="center" alt="Raissa-React" height="50" width="60" src="https://icongr.am/devicon/react-original-wordmark.svg?size=148&color=currentColor">
-  <img align="center" alt="Raissa-BOOT" height="50" width="60" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=18&color=7a4780">  
+  <img align="center" alt="Raissa-BOOT" height="50" width="60" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=18&color=7a4780"> 
+  <img align="center" alt="Raissa-wp" height="50" width="60" src="https://icongr.am/devicon/wordpress-plain-wordmark.svg?size=148&color=2c8ebb"> 
   <img align="center" alt="PS" height="50" width="60" src="https://icongr.am/devicon/photoshop-plain.svg?size=128&color=1639c5">
   <img align="center" alt="Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Raissa-GIT" height="50" width="60" src="https://icongr.am/devicon/git-plain-wordmark.svg?size=148&color=f34f29">
